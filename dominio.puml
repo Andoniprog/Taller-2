@@ -1,0 +1,9 @@
+@startuml
+skin rose
+
+entity cliente{}
+
+entity viehiculo{}
+
+
+@enduml
